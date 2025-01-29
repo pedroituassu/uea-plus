@@ -4,7 +4,8 @@ const auto_login = (email, senha) => {
     document.getElementById("formLogin").submit()
 }
 
-let email = "pcmi.eng23@uea.edu.br"
-let senha = "99538199200"
-
-auto_login(email, senha)
+browser.storage.local.get(["email", "senha"]).then((data) => {
+    let email = data.email;
+    let senha = data.senha;
+    auto_login(email, senha)
+})

@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "UEA+",
-  "version": "1.1",
+  "version": "1.2.0",
   "description": "Fiz essa extensão por conta de algumas ressalvas que eu e a maioria dos alunos, senão todos, têm sobre o site da UEA",
 
   "permissions": ["activeTab", "storage"],

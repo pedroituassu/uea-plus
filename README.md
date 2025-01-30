@@ -34,15 +34,15 @@ A instalação no Firefox é muito simples. Na direita dessa página tem as
 Releases da extensão. Basta procurar por alguma coisa escrito uea-plus v1.2
 ou semelhante (nem sempre vai estar v1.2 porque as versões mudam quando a
 extensão atualiza).\
-[inserir imagem de onde fica as releases] \
+![image](https://github.com/user-attachments/assets/11393401-6ba0-4ccb-91ac-c50875c9d1e5) \
 Clique aí, procure pelo arquivo .zip e faça o _download_.\
 Depois disso, vá ao painel de extensões do navegador e clique em 
 gerenciar extensões.\
-[inserir imagem de gerenciar extensões] \
+![image](https://github.com/user-attachments/assets/c3df18b3-e5c5-485e-9bb1-d95c8b599e60) \
 Na página de gerenciamento de extensões, clique no símbolo de engrenagem e,
 dentro do menu que aparece, clique em "Instalar de um arquivo" (ou coisa
 parecida).\
-[inserir imagem de instalar de um arquivo] \
+![image](https://github.com/user-attachments/assets/fd7eed87-2e30-4225-9bcc-a1455067f821) \
 Selecione o arquivo baixado anteriormente e aceite as permissões necessárias
 para a extensão funcionar.\
 Pronto! A sua vida de acessar o portal da UEA já tá 50% melhor. Agora você tem
@@ -52,7 +52,7 @@ que configurar a extensão.
 
 Depois de já ter baixado e instalado a extensão, agora você tem que configurar.\
 Clique no símbolo da extensão e um popup vai abrir. Ele é assim:\
-[inserir imagem do popup]\
+![image](https://github.com/user-attachments/assets/3d5ffd78-c7af-44d7-a9bb-8c9c3007bfe0) \
 Como você poder ver, temos um botão de autologin e os campos de email e senha.
 Acredito que os nomes expliquem o que cada um faz, mas, de qualquer jeito, 
 segue a explicação.\

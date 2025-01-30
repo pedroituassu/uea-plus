@@ -35,7 +35,7 @@ Releases da extensão. Basta procurar por alguma coisa escrito uea-plus v1.2
 ou semelhante (nem sempre vai estar v1.2 porque as versões mudam quando a
 extensão atualiza).\
 ![image](https://github.com/user-attachments/assets/11393401-6ba0-4ccb-91ac-c50875c9d1e5) \
-Clique aí, procure pelo arquivo .zip e faça o _download_.\
+Clique aí, procure pelo arquivo .xpi e faça o _download_.\
 Depois disso, vá ao painel de extensões do navegador e clique em 
 gerenciar extensões.\
 ![image](https://github.com/user-attachments/assets/c3df18b3-e5c5-485e-9bb1-d95c8b599e60) \

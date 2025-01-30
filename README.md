@@ -2,7 +2,9 @@
 
 Todas as coisas listadas abaixo eu enviei como sugestão para os setores
 responsáveis na universidade e, enquanto não for implementado, 
-continuarei a desenvolver a extensão.
+continuarei a desenvolver a extensão. \
+\
+Qualquer problema ou dúvida, @owpedroca no twitter
 
 # Lembrete
 

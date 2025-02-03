@@ -19,8 +19,8 @@ Não se esqueçam também dos problemas de estrutura e segurança nas unidades.
 
 Fiz essa extensão por conta de algumas ressalvas que eu e a maioria dos 
 alunos, senão todos, têm sobre o site da UEA.\
-No momento, só implementei a feature para poder utilizar gerenciadores de 
-senha no site.
+No momento, a extensão permite que o usuário utilize gerenciadores de senha
+no portal e conta com a função de autologin.
 
 ## Instalação
 
@@ -82,7 +82,7 @@ ou seja, só tem acesso a eles quem pode acessar o seu computador fisicamente.\
 Quando você entra na página de login do portal, a extensão verifica se você
 ligou o autologin. No caso positivo, ela insere as suas informações e faz login
 automaticamente. Não é instantâneo, mas nos meus testes, o processo foi
-acelerado em cerca de 12 segundos.
+acelerado em cerca de 10 segundos.
 
 ## Próximos passos
 
